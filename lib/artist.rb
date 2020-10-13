@@ -31,7 +31,7 @@ class Artist
     Songs.all.select do |song|
       song.artist
     end
-    
+
   end
 
 

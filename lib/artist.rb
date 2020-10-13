@@ -27,13 +27,5 @@ class Artist
     song.artist = self
   end
 
-  def print_songs
-    Songs.all.select do |song|
-      song.artist
-    end
-
-  end
-
-
 end #end of class Artist
 #binding.pry

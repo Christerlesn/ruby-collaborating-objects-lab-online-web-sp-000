@@ -39,4 +39,4 @@ class Artist
 
 
 end #end of class Artist
-binding.pry
+#binding.pry
